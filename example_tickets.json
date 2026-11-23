@@ -1,0 +1,17 @@
+[
+  {
+    "customer_msg": "Hi, my ceramic pour-over kettle arrived cracked today (Order #4821). It cost $115—can I please get a full refund?"
+  },
+  {
+    "customer_msg": "My coffee grinder stopped working after one week of use. This is the second one I've bought from you that broke. Can I get a replacement?"
+  },
+  {
+    "customer_msg": "The order arrived 10 days late and the package was damaged. Some items are missing. Order #5523, ordered on the 1st, expected by the 5th."
+  },
+  {
+    "customer_msg": "I never received my order. It's been 3 weeks since I placed it (Order #3892). Your tracking shows it was delivered but I have no package."
+  },
+  {
+    "customer_msg": "Wrong item shipped to me—I ordered a French press but got a pour-over cone instead. Order #4919."
+  }
+]
