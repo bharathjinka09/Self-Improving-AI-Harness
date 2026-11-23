@@ -1,0 +1,7 @@
+{
+  "min_confidence": 0.80,
+  "max_auto_refund": 50.00,
+  "require_hitl_actions": [
+    "issue_refund_over_limit"
+  ]
+}
