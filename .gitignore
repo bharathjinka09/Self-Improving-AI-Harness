@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Environment & Local State
+.env
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+traces.jsonl
+
+# IDEs & OS
+.vscode/
+.idea/
+.DS_Store
