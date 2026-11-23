@@ -1,6 +1,6 @@
 # Self-Improving Customer Support Agent Harness (OpenAI + LangGraph)
 
-A production-ready starter repository for a **human-in-the-loop (HITL) customer support agent** built with **OpenAI** and **LangGraph** that safely improves its own playbooks over time without modifying locked security rules or evaluation suites.
+A production-ready agent with **human-in-the-loop (HITL) customer support agent** built with **OpenAI** and **LangGraph** that safely improves its own playbooks over time without modifying locked security rules or evaluation suites.
 
 ---
 
